@@ -12,7 +12,7 @@ Want to help?
 
 ## TODO
 ### Suggested Implementation Order (✨GPT-4 Generated)
-- [ ] Lexical analysis
+- [x] Lexical analysis ✨
 - [ ] Syntax analysis
 - [ ] Semantic analysis
 - [ ] Intermediate representation
