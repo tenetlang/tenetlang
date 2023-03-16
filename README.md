@@ -3,14 +3,28 @@
 
 See [GPT4 Designed a Programming Language](https://lukebechtel.com/blog/gpt4-generating-code) for some background.
 
-## SEEKING CONTRIBUTORS
+## Seeking Contributors 
 I've made lots of neat software, but only one new language before, so I'll need some help to coax GPT in the right directions, and avoid common pitfalls.
 
 Want to help?
 - Check the TODO list below
 - Read over the blog post & copy the history into ChatGPT, to continue the exploration :)
 
-## TODO / Open Questions
+## TODO
+### 🤖 GPT-4's Suggested Implementation Order
+- [ ] Lexical analysis
+- [ ] Syntax analysis
+- [ ] Semantic analysis
+- [ ] Intermediate representation
+- [ ] Code optimization
+- [ ] Code generation
+- [ ] Runtime environment
+- [ ] Standard library
+- [ ] Error handling
+- [ ] Tooling and documentation
+### Docs
+- [ ] Code of Conduct
+### Architecture
 - [ ] How much do we allow for human intervention in the design?
 - [ ] How can we not have to copy-paste things into ChatGPT to get good answers (GPT-4 API will solve this, but not everyone has access, and the rate limits are somewhat expensive)
 - [ ] Is `GPT-3.5-turbo` good enough for certain subcases, such as writing specific lexers / parsers?
