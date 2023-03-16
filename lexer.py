@@ -73,6 +73,8 @@ token_patterns = [
     ('SUGGEST_COMPLETE', r'complete'),
     ('SUGGEST_DOCUMENT', r'document'),
     ('SUGGEST_REFACTOR', r'refactor'),
+    # GPT-4 didn't originally place this at the end, we had to talk about it first.
+    # This has to be at the end so that all the other "built-in" parts of the language are parsed before we get to user-defined identifiers.
     ('IDENTIFIER', r'[^\W\d]\w*'),
 ]
 
