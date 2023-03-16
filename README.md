@@ -5,7 +5,7 @@ See https://lukebechtel.com/blog/gpt4-generating-code for some background.
 
 ## SEEKING CONTRIBUTORS
 - I've made lots of neat software, but only one new language before.
-- Want to help? Check the TODO list below, for now.
+- Want to help? Check the TODO list below, for now, or read over the blog post, copy the history into ChatGPT, and continue the exploration :)
 
 ## TODO / Open Questions
 - [ ] How much do we allow for human intervention in the design?
