@@ -1,7 +1,7 @@
 # tenetlang 🤖💻
 >  The first(?) (of many(?)) GPT-4 designed languages
 
-See [GPT4 Made a Programming Language](https://lukebechtel.com/blog/gpt4-generating-code) for some background.
+See [GPT4 Designed a Programming Language](https://lukebechtel.com/blog/gpt4-generating-code) for some background.
 
 ## SEEKING CONTRIBUTORS
 I've made lots of neat software, but only one new language before, so I'll need some help to coax GPT in the right directions, and avoid common pitfalls.
