@@ -1,5 +1,5 @@
-# tenetlang
-The first(?) (of many(?)) GPT-4 designed languages
+# tenetlang 🤖💻
+>  The first(?) (of many(?)) GPT-4 designed languages
 
 See https://lukebechtel.com/blog/gpt4-generating-code for some background.
 
