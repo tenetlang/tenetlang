@@ -9,7 +9,6 @@ Token = namedtuple('Token', ['type', 'value', 'line', 'column'])
 token_patterns = [
     ('WHITESPACE', r'\s+'),
     ('COMMENT', r'//.*'),
-    ('IDENTIFIER', r'[^\W\d]\w*'),
     ('NUMBER', r'\d+(\.\d*)?([eE][+-]?\d+)?'),
     ('STRING', r'"(?:[^"\\]|\\.)*"'),
     ('CLASS', r'class'),
@@ -74,6 +73,7 @@ token_patterns = [
     ('SUGGEST_COMPLETE', r'complete'),
     ('SUGGEST_DOCUMENT', r'document'),
     ('SUGGEST_REFACTOR', r'refactor'),
+    ('IDENTIFIER', r'[^\W\d]\w*'),
 ]
 
 
