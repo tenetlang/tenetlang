@@ -3,8 +3,14 @@ The first(?) (of many(?)) GPT-4 designed languages
 
 See https://lukebechtel.com/blog/gpt4-generating-code for some background.
 
-## Questions
+## SEEKING CONTRIBUTORS
+- I've made lots of neat software, but only one new language before.
+- Want to help? Check the TODO list below, for now.
+
+## TODO / Open Questions
 - [ ] How much do we allow for human intervention in the design?
+- [ ] How can we not have to copy-paste things into ChatGPT to get good answers (GPT-4 API will solve this, but not everyone has access, and the rate limits are somewhat expensive)
+- [ ] Is `GPT-3.5-turbo` good enough for certain subcases, such as writing specific lexers / parsers?
 
 
 # GPT-4's Original Tenets
