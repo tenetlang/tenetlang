@@ -8,7 +8,7 @@ See https://lukebechtel.com/blog/gpt4-generating-code for some background.
 
 
 # GPT-4's Original Tenets
-```
+
 While it is difficult to provide a single grand unifying theory of software development, here are ten key tenets that could serve as a comprehensive guide for developing high-quality software:
 
 1. Modularity: Break software into smaller, self-contained, and reusable components to simplify development, maintenance, and understanding.
@@ -69,5 +69,3 @@ Here are some examples of places where the tenets of software development work w
     - Works well: DevOps practices, which encourage the integration of development and operations teams to foster a culture of continuous learning and improvement.
     - Difficulties: Organizations that resist change or lack a culture of learning and experimentation, making it difficult to adopt new techniques, technologies, or best practices.
 
-
-```
