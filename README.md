@@ -11,7 +11,7 @@ Want to help?
 - Read over the blog post & copy the history into ChatGPT, to continue the exploration :)
 
 ## TODO
-### ✨ GPT-4's Suggested Implementation Order
+### Suggested Implementation Order (✨GPT-4 Generated)
 - [ ] Lexical analysis
 - [ ] Syntax analysis
 - [ ] Semantic analysis
