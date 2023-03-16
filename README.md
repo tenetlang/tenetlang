@@ -10,7 +10,7 @@ We need some help to coax GPT in the right directions, and avoid common pitfalls
 
 - Check the TODO list below
 - What do you want to see in the language? Submit an `enhancement` issue!
-- Read over the blog post & copy the history into ChatGPT, to continue the exploration :)
+- Read over [the blog post](https://lukebechtel.com/blog/gpt4-generating-code) & copy the history into ChatGPT, to continue the exploration :)
 
 ### 📜 Terminology
 To keep things straight, here are some prefixes we'll use in our commits and comments to help understand how much gpt-4 is participating exactly.
