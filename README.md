@@ -1,4 +1,4 @@
-# tenetlang 🤖💻
+# tenetlang ✨💻
 > A GPT-Designed Language Built for Humans
 
 See [GPT4 Designed a Programming Language](https://lukebechtel.com/blog/gpt4-generating-code) for some background.
