@@ -11,7 +11,7 @@ Want to help?
 - Read over the blog post & copy the history into ChatGPT, to continue the exploration :)
 
 ## TODO
-### 🤖 GPT-4's Suggested Implementation Order
+### ✨ GPT-4's Suggested Implementation Order
 - [ ] Lexical analysis
 - [ ] Syntax analysis
 - [ ] Semantic analysis
@@ -30,7 +30,7 @@ Want to help?
 - [ ] Is `GPT-3.5-turbo` good enough for certain subcases, such as writing specific lexers / parsers?
 
 
-# GPT-4's Original Tenets
+# ✨GPT-4's Original Tenets
 
 While it is difficult to provide a single grand unifying theory of software development, here are ten key tenets that could serve as a comprehensive guide for developing high-quality software:
 
