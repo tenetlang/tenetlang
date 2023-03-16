@@ -4,10 +4,13 @@
 See Luke's Post ["GPT4 Designed a Programming Language"](https://lukebechtel.com/blog/gpt4-generating-code) for some background.
 
 ## Seeking Contributors 
-I've made lots of neat software, but only one new language before, so I'll need some help to coax GPT in the right directions, and avoid common pitfalls.
+> I've made lots of neat software, but only one new language. I'll need some help to coax GPT in the right directions, and avoid common pitfalls.
+> 
+> - Luke 
 
 Want to help?
 - Check the TODO list below
+- What do you want to see in the language? Submit an `enhancement` issue!
 - Read over the blog post & copy the history into ChatGPT, to continue the exploration :)
 
 ## TODO
