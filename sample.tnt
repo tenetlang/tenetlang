@@ -1,0 +1,55 @@
+import language_models
+
+class Math {
+    let pi: Float = 3.14159
+
+    constructor() {
+    }
+
+    static function add(a: Int, b: Int) -> Int {
+        return a + b
+    }
+
+    function circumference(radius: Float) -> Float {
+        return 2 * pi * radius
+    }
+}
+
+async function fetchData() -> List[Int] {
+    await sleep(1000)
+    return [1, 2, 3, 4, 5]
+}
+
+function doubleNumbers(numbers: List[Int]) -> List[Int] {
+    return numbers.map(n => n * 2)
+}
+
+suggest complete
+// The language model might suggest:
+function tripleNumbers(numbers: List[Int]) -> List[Int] {
+    return numbers.map(n => n * 3)
+}
+
+suggest document doubleNumbers
+// The language model might generate:
+/**
+ * Multiplies each number in the given list by 2.
+ *
+ * @param numbers - The list of integers to double
+ * @return A new list containing the doubled integers
+ */
+
+async function main() {
+    let data = await fetchData()
+    let doubled = doubleNumbers(data)
+    let math = Math()
+    let circ = math.circumference(5)
+
+    for number in doubled {
+        print(number)
+    }
+
+    print(circ)
+}
+
+main()
