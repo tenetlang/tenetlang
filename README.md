@@ -12,7 +12,7 @@ Want to help?
 
 ## TODO
 ### Suggested Implementation Order (✨GPT-4 Generated)
-- [x] Lexical analysis ✨
+- [x] Lexical analysis (✨GPT-4 Generated `lexer.py` -- Needs more work though)
 - [ ] Syntax analysis
 - [ ] Semantic analysis
 - [ ] Intermediate representation
