@@ -31,7 +31,7 @@ To keep things straight, here are some prefixes we'll use in our commits and com
 - [ ] Error handling
 - [ ] Tooling and documentation
 ### Docs
-- [ ] Code of Conduct
+- [x] Code of Conduct
 ### Architecture
 - [ ] How much do we allow for human intervention in the design?
 - [ ] How can we not have to copy-paste things into ChatGPT to get good answers (GPT-4 API will solve this, but not everyone has access, and the rate limits are somewhat expensive)
