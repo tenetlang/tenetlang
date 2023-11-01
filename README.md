@@ -1,7 +1,13 @@
+> NOTICE: Due to personal and professional obligations, this project is currently archived.
+
 # tenetlang ✨💻
 > A GPT-Designed Language Built for Humans
 
 See Luke's Post ["GPT4 Designed a Programming Language"](https://lukebechtel.com/blog/gpt4-generating-code) for some background.
+
+
+
+
 
 ### 🙏 Seeking Contributors 
 We need some help to coax GPT in the right directions, and avoid common pitfalls.
